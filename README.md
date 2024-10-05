@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Johannes and I'm a Software Engineer from Germany. I work 100% remote for [sipgate](https://github.com/sipgate) where I help build the excellent app [satellite](https://apps.apple.com/de/app/satellite-mobil-telefonieren/id1322354195), which is IMHO the best softphone for iOS. Apart from building accessible user interfaces I enjoy wrangling SIP and CallKit in particular.
+My name is Johannes and I'm a Software Engineer from Germany. I work 100% remote for [Cognigy](https://github.com/Cognigy) where I help build voice-based AI agents.
 
 Some other things I enjoy:
 

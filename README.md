@@ -1,5 +1,3 @@
-[![Peerlist](https://github-readme-badge.peerlist.io/api/technocidal)](https://peerlist.io/technocidal)
-
 ### Hi 👋
 
 My name is Johannes and I'm a Software Engineer from Germany. I work 100% remote for [Cognigy](https://github.com/Cognigy) where I help build voice-based AI agents.

@@ -8,4 +8,4 @@ Some other things I enjoy:
 - Apple Shortcuts
 - Figuring out, whether I can finally archive that side project I've abandoned months ago
 
-I'm open to any kind of question. Just shoot me a message on [Mastodon 📧](https://mastodon.social/@technocidal)
+I'm open to any kind of question. Just shoot me a message on [Mastodon 📧](https://gruene.social/@technocidal)
